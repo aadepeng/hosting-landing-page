@@ -11,7 +11,9 @@
 
 ## Learning 
 >Navbar using CSS flexbox.
+
 >Elements positioning using CSS grid, flexbox property.
+
 >Wrote HTML code from scratch for this page.
 
 Note: The website is made using HTML and CSS and is not responsive.
