@@ -7,7 +7,7 @@
 
 
 ## Time taken to complete this project 
->1 hrs
+>4 hrs
 
 ## Learning 
 >Navbar using CSS flexbox.
